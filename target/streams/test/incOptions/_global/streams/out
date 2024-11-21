@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/gadhiraju/Downloads/saucedemo-test/target/scala-2.13/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/gadhiraju/Downloads/saucedemo-test/target/scala-2.13/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CartPage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProductsListPage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LoginPage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StartUpTearDown.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProductsListPage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ProductSteps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CartPage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LoginPage$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CommonPage.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Driver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Driver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/gadhiraju/Downloads/saucedemo-test/target/scala-2.13/test-classes.bak[0m
