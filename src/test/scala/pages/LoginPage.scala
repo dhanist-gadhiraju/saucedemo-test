@@ -8,6 +8,7 @@ object LoginPage extends BasePage {
     goToPage()
   }
 
+  // Login Details
   def login(): Unit = {
     findElementById("user-name").clear()
     findElementById("user-name").sendKeys("standard_user")
